@@ -54,4 +54,4 @@ Given your experience and findings, if you need more control and flexibility, SX
 
 
 ## Acknowledgments
-Thanks Arduino IDE and software serial library for this project and also thanks to 
+Thanks Arduino IDE and software serial library for this project and also thanks to bkolicoski
