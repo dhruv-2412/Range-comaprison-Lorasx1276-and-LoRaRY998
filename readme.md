@@ -13,8 +13,8 @@ This project compares the range performance of two LoRa modules: SX1276 and RYLR
 2. **Weather conditions**: consider Operating on a sunny day and not in a rainy atmosphere
 
 ### Procedure
-1. **Transmitter Setup**: The transmitter that we kept we on a little height (1st floor) to get a better range and we made sure that they are no concrete buildings in between. Also the transmitter is connected with an ESP 32 to get the log. define the transmitter and receiver pins corerectly and and the have the baud rate same. The codes are provided below
-2. **Receiver Setup**: The receiver is also connected with an ESP 32 but to get the logs on mobile we connected the ESP to telnet WIFI server. Both the receiver's and transmitter code of lora1276 are provided below.
+1. **Transmitter Setup**: The transmitter that we kept we on a little height (1st floor) to get a better range and we made sure that they are no concrete buildings in between. Also the transmitter is connected with an ESP 32 or 8266 to get the log. define the transmitter and receiver pins corerectly and and the have the baud rate same. The codes are provided below
+2. **Receiver Setup**: The receiver is also connected with an ESP 32 or 8266 but to get the logs on mobile we connected the ESP to telnet WIFI server. Both the receiver's and transmitter code of lora1276 are provided below.
 
 ## Results
 ### SX1276
